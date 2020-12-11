@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/englishproject4/static/css/main.e7cd25fc.chunk.css",
+    "main.js": "/englishproject4/static/js/main.d7dff6ea.chunk.js",
+    "main.js.map": "/englishproject4/static/js/main.d7dff6ea.chunk.js.map",
+    "runtime-main.js": "/englishproject4/static/js/runtime-main.c6d76234.js",
+    "runtime-main.js.map": "/englishproject4/static/js/runtime-main.c6d76234.js.map",
+    "static/css/2.4c09b179.chunk.css": "/englishproject4/static/css/2.4c09b179.chunk.css",
+    "static/js/2.3633d21a.chunk.js": "/englishproject4/static/js/2.3633d21a.chunk.js",
+    "static/js/2.3633d21a.chunk.js.map": "/englishproject4/static/js/2.3633d21a.chunk.js.map",
+    "static/js/3.9176cdfe.chunk.js": "/englishproject4/static/js/3.9176cdfe.chunk.js",
+    "static/js/3.9176cdfe.chunk.js.map": "/englishproject4/static/js/3.9176cdfe.chunk.js.map",
+    "index.html": "/englishproject4/index.html",
+    "static/css/2.4c09b179.chunk.css.map": "/englishproject4/static/css/2.4c09b179.chunk.css.map",
+    "static/css/main.e7cd25fc.chunk.css.map": "/englishproject4/static/css/main.e7cd25fc.chunk.css.map",
+    "static/js/2.3633d21a.chunk.js.LICENSE.txt": "/englishproject4/static/js/2.3633d21a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/englishproject4/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6d76234.js",
+    "static/css/2.4c09b179.chunk.css",
+    "static/js/2.3633d21a.chunk.js",
+    "static/css/main.e7cd25fc.chunk.css",
+    "static/js/main.d7dff6ea.chunk.js"
+  ]
+}
